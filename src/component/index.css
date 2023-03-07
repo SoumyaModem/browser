@@ -1,0 +1,34 @@
+.list-container {
+  list-style: none;
+  padding: 10px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.time {
+  color: #475569;
+  padding-right: 100px;
+}
+.logo {
+  margin: 10px;
+}
+.title {
+  text-align: center;
+  padding: 10px;
+}
+.domain {
+  color: #475569;
+  padding: 10px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0;
+}
